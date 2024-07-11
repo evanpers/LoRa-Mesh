@@ -1,0 +1,24 @@
+@import url("https://code.highcharts.com/css/highcharts.css");
+@import url("https://code.highcharts.com/dashboards/css/dashboards.css");
+
+/* .highcharts-gauge-chart {
+    max-height: 185px;
+} */
+.highcharts-background {
+    fill: #122828;
+}
+.highcharts-plot-band.cold-band {
+    fill: #6f93cd;
+}
+.highcharts-plot-band.warm-band {
+    fill: #3ec156;
+}
+.highcharts-plot-band.hot-band {
+    fill: #d2df48;
+}
+.highcharts-plot-band.extremehot-band {
+    fill: #df2b2b;
+}
+.highcharts-plot-band {
+    fill-opacity: 1;
+}
